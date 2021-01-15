@@ -1,0 +1,5 @@
+http://sreeram-hadoop.blogspot.com/
+http://sreerambharat.blogspot.com/p/scala-programming.html
+https://alexioannides.com/2019/07/28/best-practices-for-pyspark-etl-projects/
+http://bigdatascholars.blogspot.com/
+https://towardsdatascience.com/
